@@ -9,7 +9,7 @@ labels:
   - Web Development
   - PHP
   - Javascript
-  -Business Informatics
+  - Business Informatics
 summary: My team and I developed a program to assist with improving the website based on user browsing habits and their submitted NPS scores.
 ---
 
