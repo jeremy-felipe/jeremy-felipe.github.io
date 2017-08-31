@@ -13,8 +13,8 @@ labels:
 summary: My team and I developed a program to assist with improving the website based on user browsing habits and their submitted NPS scores.
 ---
 
-<div class="ui large rounded images">
-  <img class="ui image" src="../images/nps-homepage.png">
+<div class="ui images">
+  <img class="ui image large rounded" src="../images/nps-homepage.png">
 </div>
 
 This project was developed as part of an internship at Intel®, and it's purpose is to link user data acquired from Google Analytics to their submitted Net Promoter Score (NPS), and then visualize it. Previously, the person in charge of analyzing these reports had no easy way to link the GA data and NPS of a user, and would typically have to infer the cause of their score based on their submitted group of interest. This was less than ideal, as the language of someone ecstatic enough or frustrated enough to give a strong enough score to warrant investigation is often not very constructive. Providing a means to track their movements through the site makes improving it far easier. 
