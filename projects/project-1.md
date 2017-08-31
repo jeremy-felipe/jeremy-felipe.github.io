@@ -13,7 +13,7 @@ labels:
 summary: My team and I developed a program to assist with improving the website based on user browsing habits and their submitted NPS scores.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/nps-homepage.png">
 </div>
 
