@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/nps-report.png
 title: NPS Report User Tracker
-permalink: projects/micromouse
+permalink: projects/nps-report
 date: 2017
 labels:
   - Web Development
