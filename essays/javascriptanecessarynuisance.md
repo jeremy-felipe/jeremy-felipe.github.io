@@ -4,6 +4,7 @@ type: essay
 published: true
 title: "Javascript: A Necessary Nuisance"
 date: 2017-08-31
+permalink: essays/javascriptanecessarynuisance.html
 labels:
   - Software Engineering
   - Learning
