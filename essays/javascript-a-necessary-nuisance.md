@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: "Javascript: A Necessary Nuisance"
+title: Javascript A Necessary Nuisance
 date: 2017-08-31
 permalink: essays/javascript-a-necessary-nuisance.md
 labels:
