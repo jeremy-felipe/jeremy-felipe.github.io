@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: true
 title: Jacascript: A Necessary Nuisance
 date: 2017-08-31
 labels:
