@@ -1,3 +1,15 @@
+---
+layout: project
+type: project
+image: images/vacay-square.png
+title: Snake
+permalink: projects/snake
+date: 2015
+labels:
+  - Java
+summary: A game I developed as part of a team for ICS 111.
+---
+
 Snake
 One of the earliest projects I've completed was recreating the game Snake in Java. While not a technical masterpiece nor original, it nevertheless represents a special place in my portfolio. Working as a group of newly minted programmers, we managed to cobble together a game engine and assets over the course of a few days. It was an early example of having to deal with project management and research, as none of us had any experience past the basics in programming. 
 
