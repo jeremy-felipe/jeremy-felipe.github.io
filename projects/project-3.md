@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/sudo.jpg
 title: Sudoku Solver
 permalink: projects/sudoku-solver
 date: 6
