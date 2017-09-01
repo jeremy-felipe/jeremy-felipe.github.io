@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/snake.png
 title: Snake
 permalink: projects/snake
 date: 2015
