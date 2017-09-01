@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ic.png
+image: images/nps-report.png
 title: NPS Report User Tracker
 permalink: projects/nps-report
 date: 2017
