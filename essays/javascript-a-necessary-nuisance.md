@@ -1,4 +1,14 @@
-﻿Javascript is a programming language that is necessary for the state of the internet as it is today, even if I’m not the biggest fan of it. I understand its importance, and I even concede that  many of my problems with it make it an easy language to pick up and implement, but there are just some annoying things about the language that don’t sit right with me.
+---
+layout: essay
+type: essay
+title: Jacascript: A Necessary Nuisance
+date: 2017-08-31
+labels:
+  - Software Engineering
+  - Learning
+---
+ 
+ Javascript is a programming language that is necessary for the state of the internet as it is today, even if I’m not the biggest fan of it. I understand its importance, and I even concede that  many of my problems with it make it an easy language to pick up and implement, but there are just some annoying things about the language that don’t sit right with me.
 
 
 Some of the more forgiving aspects of Javascript contribute to my issues with it. I may be biased, but I learned the basics of programming on Java and C/C++. These compiled languages are sticklers for correctness and will refuse to compile and run if something is even slightly incorrect. I find there’s safety in that since bugs have a chance of emerging earlier as opposed to possibly hiding until a typing error or reused variable gets changed. Javascript’s allowance of variables to be re-typed and makes thorough debugging slightly more of a pain than it could be with some more strict rules. I’m sure there is some IDE out there or Notepad++ plugin that lets you constrain that, but this is a review of the raw language. Furthermore, Javascript having only 1 number variable type means everything is a double, which means every number allocates a huge space. As a consequence of this, performing integer math requires extra steps that aren’t needed in other languages. 
