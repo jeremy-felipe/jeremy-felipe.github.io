@@ -16,3 +16,5 @@ For a project in ICS 211, I was tasked to create a Sudoku solver using recursion
 As one would expect from a recursive sudoku solver, the program would brute force its way through a sudoku. First, it would find the first blank and try every number 1 through 9 on that space, and then choose the first one that fulfills the immediate row, column, and square. It then moved on to the next space and tried the same thing and if it found a space where it couldnft put anything in, the program would fall back to the most recent space it filled and try another, and so on and so forth. 
 
 It was a fun project to work on and it reinforced the difference between solo and group projects. Solo projects are great because you don't have to answer to anyone but your boss for your code, dependenceis, and features. However, as a group, people rely on you to finish what they need you to do so there's a lot more stress, but also a lot more motivation to finish. All in all, it was fun either way.
+
+[Source](https://github.com/jeremy-felipe/sudokusolver/blob/master/SudokuSolver.java)
