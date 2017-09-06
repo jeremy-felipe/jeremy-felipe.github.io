@@ -4,7 +4,7 @@ type: project
 image: images/sudo.jpg
 title: Sudoku Solver
 permalink: projects/sudoku-solver
-date: 6
+date: 2016
 labels:
   - Java
   
