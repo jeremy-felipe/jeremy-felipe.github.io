@@ -1,3 +1,17 @@
+---
+layout: essay
+type: essay
+published: true
+title: "Being a Master Inquisitor"
+date: 2017-09-07
+permalink: essays/being-a-master-inquisitor.html
+labels:
+  - Software Engineering
+  - Learning
+  - Stackoverflow
+---
+
+
 Sometimes, how one asks for something is much more important than what is being asked for. Asking the right questions in the right way and in the right context can make all the difference in the answer it may or may not receive. People are, after all, not machines and will parse queries while considering the font. What this exercise and reading strives to teach is that software engineers, or “hackers” in this case, will typically respond to questions in predictable ways, and manipulating that response is a matter of respecting their intelligence and time.
 
 Part of asking smart questions comes from what it does for the person asking them. In order to construct the ‘perfect” “smart” question to find the answer to a problem one has, the article by Eric Raymond describes a method that requires the asker to prove they did some work. The asker should prove that he or she made a decent attempt to solve their problem in a thorough enough manner. It also notes that the asker should, if possible and relevant, provide a snippet of their related code or what have you so that anyone attempting to assist may do so without having to devote time looking through unnecessary things. Through both of these methods, the asker might simply come upon the solution on their own, which is just fine. Personally, I agree with this; it gives a nice confidence boost to the asker and doesn’t clutter up forums with the same problems.
