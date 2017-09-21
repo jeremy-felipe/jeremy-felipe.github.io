@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Learning
   - coding style
-  -coding standards
+  - coding standards
 ---
 
 Imagine a highway that has everything you’d expect from a highway. The only thing is, the lights last different amounts of time every cycle, the dashed lines that separate lanes have different lengths, and only half the people use their turn signal. Well, that last one is the norm unfortunately, but that’s the point! Without standards, navigating code is like navigating an awful road system, even if it works. The whole process is going to take much longer and be awful to get through. Standards mean consistency, and consistency means you can make assumptions about how to go about doing something. 
