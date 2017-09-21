@@ -21,7 +21,9 @@ There’s really only so many ways I can say that coding standards just make peo
 I imagine at the upper level of any coding community, coding standards will be followed in some form. As long as code needs to be maintained, people will need to follow some kind of standard somehow. It’s just practical that way. 
 
 
-<img class="ui large center floated image" src="../images/xkcdStandards.png">
+
+<img class="ui large center spaced image" src="../images/xkcdStandards.png">
+
 
 
 ESLint is only as annoying as something one would expect to find in an IDE. It’s easy to implement and isn’t really invasive; it’s just a little checkmark in the corner. It helps with getting style right, and I can’t really fault it anything. I’m not really a fan of some of the typo detection, but if that’s part of coding standards then I guess I’ll just have to go with it. 
