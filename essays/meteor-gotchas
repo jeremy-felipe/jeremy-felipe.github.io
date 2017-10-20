@@ -1,8 +1,10 @@
 ---
 layout: essay
 type: essay
+published: true
 title: "Meteor Gotchas"
 date: 2017-10-19
+permalink: essays/meteor-gotchas.html
 labels:
   - Software Engineering
   - Meteor
