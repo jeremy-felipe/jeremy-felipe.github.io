@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Meteor Gotchas"
+date: 2017-10-19
+labels:
+  - Software Engineering
+  - Meteor
+---
+
+The worst problem I had involving Meteor struck suddenly during a WOD. It was seemingly stuck on the downloading/extracting step of the meteor meteor npm install. This meant minutes spent on waiting for it to complete, followed by restarting computer and all applications and trying again. This was then followed by troubleshooting on stack overflow while people started to finish. In desperation I downloaded a repository from a previous assignment and tried to retrofit it to the WOD, but by that time there was no way and the WOD was done. This problem persisted past that time, and I had to figure out how to fix it or just accept a giant crater in my gradebook where Meteor assignments should have been. Although I’ll never be truly sure what exactly the problem was since my rash of installations and reinstallations came immediately before it, the last thing I did that preceded working again was uninstalling and reinstalling 7zip. Apparently for some people, the extractor that comes packaged with Meteorcan have issues for some ungodly reason, so I uninstalled/reinstalled my 7zip and reaffirmed the path and following a good ol’ restart, things were just fine. I mean, it’s still slow but it’s fine. 
+
+Another problem I’ve had with meteor is some guy with white hair and a long sword keeps coming and trying to crash it into the planet.
+
+Past that, however, 
