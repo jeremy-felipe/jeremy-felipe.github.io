@@ -8,7 +8,7 @@ permalink: essays/with-great-power.html
 labels:
   - Software Engineering
   - Ethics
-  -Autonomous Driving
+  - Autonomous Driving
 ---
 
 Ethics Reflection
