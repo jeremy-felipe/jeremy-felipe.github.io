@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: "Food for Thought"
-date: 2017-12-5
+date: 2017-12-05
 permalink: essays/food-for-thought.html
 labels:
   - Software Engineering
