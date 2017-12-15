@@ -23,19 +23,19 @@ The culmination of my intro to Software Engineering class, this website is a way
 Everyone gets a profile when they log on for the first time, and they can fill in whatever relevant information they want to display to catch the eyes of other gamers. Aside from typical general information like name and email for contact, people can display their IDs from their platform of choice and whatever games they're currently playing. 
 
 <div class="ui images">
-  <img class="ui image large rounded" src="../images/nps-homepage.png">
+  <img class="ui image large rounded" src="../images/manoagaming1.png">
 </div>
 
 The LFG page is, in my opinion (because I developed it), the most important part of the site. It allows for people to put out requests to join and meet up for games. From my experience playing MMORPGs, most of the time people aren't looking to make meaningful connections with strangers, they just want some people to fill out a group or a needed position, usually a healer. By tagging appropriately on the LFG submit page, you can ensure your games can be found by the filter on the LFG page by those who feel like joining up. 
 
 <div class="ui images">
-  <img class="ui image large rounded" src="../images/nps-homepage.png">
+  <img class="ui image large rounded" src="../images/manoagaming3.png">
 </div>
 
 These LFGs expire eventually to prevent old requests filling up the system. In future updates I would implement a search system to compliment the filter system, streamline the date entry process with a calendar interface of sorts, and segregate the table into pages to organize higher volumes of entries. 
 
 <div class="ui images">
-  <img class="ui image large rounded" src="../images/nps-homepage.png">
+  <img class="ui image large rounded" src="../images/manoagaming2.png">
 </div>
 
 
