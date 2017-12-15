@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "Meteor's Edge"
 date: 2017-10-26
 permalink: essays/meteors-edge.html
