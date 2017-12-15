@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 date: 2017-10-19
+published: false
 labels:
   - Software Engineering
   - Meteor
