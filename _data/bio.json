@@ -56,7 +56,10 @@
         "Javascript",
         "jQuery",
         "PHP",
-        "mySQL"
+        "mySQL",
+        "Blaze",
+        "Kadira",
+        "Mongo"
       ]
     },
     {
@@ -67,7 +70,9 @@
         "Git/GitHub",
         "PHPStorm",
         "Notepad++",
-        "Eclipse"
+        "Eclipse",
+        "Intellij",
+        "Meteor"
       ]
     }
   ],
