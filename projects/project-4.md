@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/manoagaming-logo.png
+image: images/manoagaming-logo.PNG
 title: Manoa Gaming
 permalink: projects/manoa-gaming
 date: 2017
