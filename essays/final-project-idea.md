@@ -34,7 +34,7 @@ The solution:
   -tables
   -other ways of conveying this
 
--submission page (to add info or corroborate others' reports to rpevent abuse)
+-submission page (to add info or corroborate others' reports to prevent abuse)
 -admin page
   
 
